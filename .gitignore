@@ -1,0 +1,9 @@
+# Eclipse project files
+\.cproject
+\.project
+\.workspace
+
+# Intermediate files
+*.o
+*.S
+*.s
